@@ -1,5 +1,5 @@
 $('#first').click(function(){
-    var queryURL = 'https://www.fantasyfootballnerd.com/service/weekly-rankings/json/hqdub92qfbb3/RB/11/1';
+    var queryURL = 'https://www.fantasyfootballnerd.com/service/weekly-rankings/json/hqdub92qfbb3/WR/4/1/';
     // Creates AJAX call for the specific movie button being clicked
     $.ajax({
         url: queryURL,
